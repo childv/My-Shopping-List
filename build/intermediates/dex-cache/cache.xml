@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e9c68164f40f9eae8fa24727ee9096c05289c7c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_1ed6c16b46de7c893b78a648cdbbcf897709adc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_fd84cf435b40c1a3b2a3ed7a3cfa7e6ffa9bc58b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_572d6520c735e514f7715718c85deac666031ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_5925e8ac11dd6ecd27a00c45fba21adc20dd4904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_8583889e1187ffd6dd5f1d14d1b004a4871e15c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.4_9592a7447c6c156ab70f3dd9a1f5d54e1dfd4b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_dc89087c3f51237fdb332e2642a25e9b47934e33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2da554b41c0910c1d85b257040052dc703631b95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_450fa54e2d716a6bce42b6f94de6f00f22c0aa1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_49155c9a9709d5023258744fe9b22aa42d0501cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/guava-18.0_e11ced1631feb7c9800790c98fd765d3bed1b86c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_da3a50e458fb2d797b44e13e12c7866606ec5005.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_2d6218d0d09e893305713b479812aec0807927f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_f202cd2be2f9fe8c853a2c434f8d49e553dd7491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_fae522c601dbeee603d4fd6b2d2b45e80806e4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_6cd0943fd1ff4a2ca752c0200d7ebb5af1e5864d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_c5f894eb5e22a8a79bc6fdce7dec459d76c4eb03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8ff915f924c39114e5a48bd643d3d28a47b8e78a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_94e6517774643cd964fe1b9d7e3cd076c7313d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Veronica/AndroidStudioProjects/ShoppingList/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_2bb7caad66fd78c342502e3954335997f467c963.jar" />
+    </item>
+
+</items>
